@@ -1,0 +1,1 @@
+# Speec_TextTranslate_JavaScript
